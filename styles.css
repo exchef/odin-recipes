@@ -1,0 +1,29 @@
+body {
+    background-color: cyan;
+}
+
+#recipe-list {
+    background-color: lightskyblue;
+    text-align: center;
+    font-family: Garamond;
+    font-size: 20px;
+}
+
+.recipe-ingredients {
+    background-color: lightskyblue;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recipe-steps {
+    background-color: lightyellow;
+    font-family: Verdana;
+    line-height: 2;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
